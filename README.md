@@ -28,11 +28,11 @@ node index.js
 - **README.md**: This document providing setup instructions and an overview of the project.
 - **package.json**: Manages project dependencies and configurations.
 - **index.js**: Contains the backend logic implemented with Express framework.
-- **views/index.ejs**: HTML template for front-end rendering.
+- **views/index.ejs**: EJS template for front-end rendering.
 
 ## HTML Documentation
 
-The main HTML template for the front-end is `index.ejs`. It includes:
+The main EJS template for the front-end is `index.ejs`. It includes:
 
 - Structure for the main page.
 - Conditional rendering based on the presence of the `counter` variable.
