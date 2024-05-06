@@ -6,11 +6,11 @@ This is a simple web application that calculates the number of letters in a user
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/Endekalu-Zemenu/Express-EJS-
+git clone https://github.com/Endekalu-Zemenu/Express-with-EJS
 ```
 2. Navigate to the project directory:
 ```
-cd Express-EJS-
+cd Express-with-EJS
 ```
 3. Install dependencies:
 ```
